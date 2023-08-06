@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on not failing school
+- 🔭 I’m currently working on random java plugins for Minecraft
 - 🌱 I’m currently learning Web Development
-- 🤔 I’m looking for help with touching grass
 - 💬 Ask me about my Minecraft server
 - 📫 How to reach me: Discord: calcwiz
 
